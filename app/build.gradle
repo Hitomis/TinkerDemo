@@ -151,7 +151,7 @@ if (buildWithTinker()) {
          * the old apk path, use to diff with the new apk to build
          * add apk from the build/bakApk
          */
-        oldApk = "${bakPath}/app-debug-0522-15-02-10.apk"
+        oldApk = "${bakPath}/app-debug-0523-15-50-52.apk"
         /**
          * optional，default 'false'
          * there are some cases we may get some warnings
